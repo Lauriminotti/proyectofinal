@@ -1,0 +1,46 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Combo Snaks saludables",
+      "imagen": "assets/img/promoSnakSaludable.jpg",
+      "precio": 850,
+      "descuento": 20
+    },
+    {
+      "id": 2,
+      "nombre": "Set de 5 Vinos",
+      "imagen": "assets/img/promoVinoUno.jpg",
+      "precio": 2200,
+      "descuento": 40
+    },
+    {
+      "id": 3,
+      "nombre": "Pollo a las brasas más porción de papas fritas",
+      "imagen": "assets/img/promoPolloPapas.png",
+      "precio": 1000,
+      "descuento": 15
+    },
+    {
+      "id": 4,
+      "nombre": "Combo Snaks variado",
+      "imagen": "assets/img/promoSnakUno.jpg",
+      "precio": 1450,
+      "descuento": 20
+    },
+    {
+      "id": 5,
+      "nombre": "Combo de Fernet más Coca-Cola",
+      "imagen": "assets/img/promoFernet.jpg",
+      "precio": 950,
+      "descuento": 45
+    },
+    {
+      "id": 6,
+      "nombre": "Sorrentinos caseros por 12 u.",
+      "imagen": "assets/img/promoSorrentinosUno.jpg",
+      "precio": 300,
+      "descuento": 15
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nombre": "lauri",
+  "edad": 28,
+  "mujer": true,
+  "celular": {
+    "marca": "Xiaomi",
+    "modelo": "MiA3"
+  },
+  "perros": ["ruddy", "Loli", "Rodo"],
+  "idiomas": [
+    {
+      "idioma": "ingles",
+      "nivel": "intermedio"
+    },
+    {
+    "idioma": "frances",
+    "nivel": "basico"
+    }
+  ]
+}
